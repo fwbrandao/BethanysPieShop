@@ -1,0 +1,11 @@
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\bin\Release\netcoreapp2.0\BethanysPieShop.deps.json
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\bin\Release\netcoreapp2.0\BethanysPieShop.runtimeconfig.json
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\bin\Release\netcoreapp2.0\BethanysPieShop.runtimeconfig.dev.json
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\bin\Release\netcoreapp2.0\BethanysPieShop.dll
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\bin\Release\netcoreapp2.0\BethanysPieShop.pdb
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.AssemblyInfo.cs
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.dll
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\obj\Release\netcoreapp2.0\BethanysPieShop.pdb

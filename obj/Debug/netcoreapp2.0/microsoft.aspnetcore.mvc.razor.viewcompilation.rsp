@@ -1,0 +1,13 @@
+\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop
+--output-path=obj\Debug\netcoreapp2.0\
+--application-name=BethanysPieShop
+--content-root=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Account\Login.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Account\Register.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Feedback\FeedbackComplete.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Feedback\Index.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Home\Details.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Home\Index.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\Shared\_Layout.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\_ViewImports.cshtml
+--file=\\Mac\Home\Desktop\Projects\BethanysPieShop\BethanysPieShop\Views\_ViewStart.cshtml
